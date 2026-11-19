@@ -1,5 +1,5 @@
 package com.streamil.tv
-
+import android.view.ViewGroup.LayoutParams
 import android.app.Activity
 import android.app.AlertDialog
 import android.os.Bundle
